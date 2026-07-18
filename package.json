@@ -1,0 +1,18 @@
+{
+  "name": "azphalt-midas",
+  "version": "1.0.0",
+  "description": "Estimates a dense depth map from a single image \u2014 no stereo or sensor needed.",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "@azphalt/azp": "^0.1.0",
+    "@azphalt/azdk": "^0.1.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HereLiesAz/azphalt-midas.git"
+  }
+}

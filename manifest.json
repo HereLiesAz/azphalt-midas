@@ -1,0 +1,27 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.midas",
+  "name": "MiDaS",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "MIT",
+  "compat": ">=0.1",
+  "description": "Estimates a dense depth map from a single image \u2014 no stereo or sensor needed. Uses: depth maps; 2.5D parallax / camera moves; depth-based bokeh & relighting; fog / atmosphere by depth.",
+  "author": "azphalt",
+  "homepage": "https://github.com/HereLiesAz/azphalt-midas",
+  "assets": [
+    {
+      "type": "onnx",
+      "path": "",
+      "role": "depth",
+      "remoteUrl": "https://github.com/HereLiesAz/azphalt-midas/releases/latest/download/midas.onnx",
+      "modelLicense": "MIT (MiDaS, Intel ISL)",
+      "tags": [
+        "depth",
+        "3d",
+        "image"
+      ]
+    }
+  ],
+  "files": {}
+}
