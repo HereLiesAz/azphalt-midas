@@ -1,21 +1,16 @@
-MIT License
+MiDaS
 
-Copyright (c) 2026 HereLiesAz
+This package is a header: a manifest and a build script that tell a host where to
+fetch a machine-learning model and how to use it. It contains no model weights of
+its own, and it claims no licence over them.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+The weights are the work of their creators and are governed solely by their terms.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The weights are licensed MIT by their creators.
+Authoritative terms and attribution: https://huggingface.co/julienkay/sentis-MiDaS
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+As declared in this package's manifest:
+  - depth: MIT (MiDaS, Intel ISL)
+
+The manifest and build script in this repository are dedicated to the public
+domain by HereLiesAz (CC0-1.0). Take them freely; the model is not HereLiesAz's to give.
