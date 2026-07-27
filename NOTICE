@@ -1,0 +1,15 @@
+MiDaS — third-party model attribution
+
+This package's own manifest and build tooling are MIT (see LICENSE).
+
+The model weights this extension distributes are NOT covered by that licence.
+They are the work of their respective authors and remain under their own terms:
+
+- depth: MIT (MiDaS, Intel ISL)
+
+Retrieved from:
+  https://huggingface.co/julienkay/sentis-MiDaS/resolve/main/midas_v21_small_256.onnx
+
+Redistribution of those weights is subject to the terms above, including any
+attribution and notice requirements. Consult each upstream project for the
+authoritative licence text before redistributing.
