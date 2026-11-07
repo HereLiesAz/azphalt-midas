@@ -1,6 +1,6 @@
 {
   "name": "azphalt-midas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Estimates a dense depth map from a single image \u2014 no stereo or sensor needed.",
   "type": "module",
   "scripts": {
